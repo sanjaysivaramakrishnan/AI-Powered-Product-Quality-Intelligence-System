@@ -1,0 +1,301 @@
+product_id,product_name,category,unit_price,launch_date
+PROD_0001,Whether Electronics Plan,Electronics,22.26,2022-10-09
+PROD_0002,Bag Apparel Together,Apparel,119.37,2022-04-15
+PROD_0003,Model Automotive Rise,Automotive,52.6,2023-03-09
+PROD_0004,By Electronics Once,Electronics,24.6,2022-08-12
+PROD_0005,Think Apparel Perhaps,Apparel,257.62,2022-01-28
+PROD_0006,Learn Automotive Family,Automotive,107.43,2023-03-06
+PROD_0007,Among Apparel Job,Apparel,230.11,2022-10-12
+PROD_0008,Cost Electronics Something,Electronics,381.82,2022-06-13
+PROD_0009,Stop Sports Your,Sports,176.72,2022-06-09
+PROD_0010,Their Apparel Late,Apparel,479.03,2022-12-11
+PROD_0011,Yet Electronics Production,Electronics,55.45,2022-04-10
+PROD_0012,Rock Home & Kitchen Door,Home & Kitchen,425.27,2022-09-28
+PROD_0013,Stuff Electronics Organization,Electronics,367.57,2022-05-08
+PROD_0014,Situation Sports Area,Sports,48.61,2022-10-28
+PROD_0015,Off Automotive Scientist,Automotive,443.87,2023-01-06
+PROD_0016,Career Automotive After,Automotive,104.22,2022-03-13
+PROD_0017,Soldier Electronics Most,Electronics,334.02,2022-10-24
+PROD_0018,Onto Electronics Ball,Electronics,429.11,2022-04-14
+PROD_0019,Care Sports Specific,Sports,146.21,2023-01-09
+PROD_0020,Exactly Apparel Everyone,Apparel,191.39,2022-08-03
+PROD_0021,Year Home & Kitchen Middle,Home & Kitchen,353.89,2022-03-15
+PROD_0022,Only Automotive Respond,Automotive,321.14,2022-09-08
+PROD_0023,Including Apparel Low,Apparel,236.51,2022-10-04
+PROD_0024,Leg Automotive Agreement,Automotive,117.61,2022-11-29
+PROD_0025,Maybe Electronics Instead,Electronics,122.23,2022-02-02
+PROD_0026,Official Home & Kitchen Behavior,Home & Kitchen,206.57,2022-03-09
+PROD_0027,Movie Apparel Door,Apparel,457.44,2022-11-19
+PROD_0028,Approach Apparel Young,Apparel,331.16,2023-02-10
+PROD_0029,Movement Sports Ago,Sports,80.01,2022-05-23
+PROD_0030,Within Apparel Election,Apparel,375.04,2022-09-27
+PROD_0031,Doctor Automotive Run,Automotive,219.93,2023-02-13
+PROD_0032,Example Home & Kitchen Effect,Home & Kitchen,117.47,2022-05-22
+PROD_0033,West Automotive Quite,Automotive,251.82,2022-02-18
+PROD_0034,Send Electronics Central,Electronics,84.89,2022-06-13
+PROD_0035,Attack Sports Animal,Sports,302.24,2023-01-30
+PROD_0036,Respond Sports Sport,Sports,301.99,2023-04-25
+PROD_0037,One Automotive Speak,Automotive,133.19,2022-01-12
+PROD_0038,Reveal Electronics Culture,Electronics,344.04,2022-10-01
+PROD_0039,Bill Home & Kitchen Though,Home & Kitchen,64.66,2023-03-22
+PROD_0040,That Apparel Support,Apparel,232.32,2022-09-27
+PROD_0041,Event Automotive Between,Automotive,383.36,2022-04-19
+PROD_0042,Specific Home & Kitchen Fast,Home & Kitchen,422.42,2022-07-23
+PROD_0043,Newspaper Apparel Edge,Apparel,193.22,2022-06-15
+PROD_0044,Story Automotive Today,Automotive,477.21,2022-01-01
+PROD_0045,Trial Automotive Radio,Automotive,168.84,2022-01-20
+PROD_0046,Civil Electronics Lot,Electronics,465.26,2022-11-11
+PROD_0047,Role Apparel Join,Apparel,38.38,2022-03-22
+PROD_0048,Analysis Electronics Ok,Electronics,368.63,2022-03-12
+PROD_0049,Letter Automotive Quality,Automotive,385.26,2022-05-12
+PROD_0050,Detail Sports Night,Sports,473.96,2022-06-19
+PROD_0051,Science Home & Kitchen Job,Home & Kitchen,268.56,2023-03-10
+PROD_0052,Food Apparel Week,Apparel,465.17,2022-07-25
+PROD_0053,Spend Home & Kitchen Keep,Home & Kitchen,205.51,2023-01-18
+PROD_0054,Conference Sports Apply,Sports,450.81,2023-04-08
+PROD_0055,Attorney Electronics Own,Electronics,131.47,2022-03-07
+PROD_0056,House Home & Kitchen Voice,Home & Kitchen,20.31,2022-08-24
+PROD_0057,Eye Automotive Resource,Automotive,117.91,2022-03-14
+PROD_0058,Design Electronics Home,Electronics,122.18,2022-02-02
+PROD_0059,Act Home & Kitchen Article,Home & Kitchen,44.72,2022-09-01
+PROD_0060,Cup Home & Kitchen Professional,Home & Kitchen,337.8,2022-08-08
+PROD_0061,Then Automotive Sign,Automotive,74.83,2023-04-30
+PROD_0062,Firm Apparel Language,Apparel,394.46,2023-02-21
+PROD_0063,Mr Apparel Father,Apparel,56.22,2023-03-18
+PROD_0064,What Home & Kitchen Knowledge,Home & Kitchen,217.55,2023-04-24
+PROD_0065,Call Electronics Account,Electronics,339.95,2022-04-11
+PROD_0066,Live Electronics Appear,Electronics,207.28,2022-12-14
+PROD_0067,Fear Electronics Star,Electronics,131.84,2022-07-14
+PROD_0068,Check Automotive Provide,Automotive,229.82,2023-03-09
+PROD_0069,Tonight Apparel Others,Apparel,146.49,2022-09-13
+PROD_0070,Open Electronics My,Electronics,227.13,2022-04-11
+PROD_0071,Meeting Electronics Staff,Electronics,329.55,2022-01-16
+PROD_0072,Including Electronics Some,Electronics,463.92,2022-08-31
+PROD_0073,Action Apparel Old,Apparel,209.14,2023-05-08
+PROD_0074,Garden Apparel Cultural,Apparel,433.68,2022-03-02
+PROD_0075,South Apparel Part,Apparel,195.7,2023-02-04
+PROD_0076,Arrive Home & Kitchen Yourself,Home & Kitchen,463.99,2023-04-11
+PROD_0077,Out Home & Kitchen Message,Home & Kitchen,217.27,2023-05-14
+PROD_0078,Society Apparel Campaign,Apparel,103.05,2022-08-11
+PROD_0079,South Electronics Seven,Electronics,293.8,2022-03-04
+PROD_0080,Despite Home & Kitchen Deep,Home & Kitchen,38.01,2023-05-04
+PROD_0081,Risk Automotive South,Automotive,460.5,2022-06-11
+PROD_0082,Your Electronics Plan,Electronics,480.78,2022-03-24
+PROD_0083,Indicate Apparel Only,Apparel,43.58,2022-03-11
+PROD_0084,Adult Apparel Really,Apparel,207.85,2022-09-10
+PROD_0085,Sea Automotive Must,Automotive,301.31,2022-03-25
+PROD_0086,Piece Sports Forget,Sports,332.11,2022-11-20
+PROD_0087,Free Home & Kitchen Sit,Home & Kitchen,110.09,2022-11-18
+PROD_0088,Generation Apparel Small,Apparel,140.15,2022-05-15
+PROD_0089,Trade Home & Kitchen Scene,Home & Kitchen,234.04,2022-03-16
+PROD_0090,Treatment Electronics Life,Electronics,234.56,2022-04-13
+PROD_0091,Bit Electronics Season,Electronics,273.44,2022-09-29
+PROD_0092,Manage Apparel Finally,Apparel,467.3,2022-03-12
+PROD_0093,Want Apparel Science,Apparel,191.07,2022-06-11
+PROD_0094,Into Sports New,Sports,418.54,2022-11-06
+PROD_0095,Quite Automotive Building,Automotive,492.09,2022-01-09
+PROD_0096,Trade Automotive Rule,Automotive,156.7,2022-04-17
+PROD_0097,Staff Apparel Letter,Apparel,139.59,2022-04-20
+PROD_0098,Person Automotive Show,Automotive,86.17,2022-10-16
+PROD_0099,Whatever Automotive Continue,Automotive,113.21,2022-12-18
+PROD_0100,Total Apparel Natural,Apparel,346.87,2022-09-28
+PROD_0101,Stop Automotive Both,Automotive,249.38,2022-02-22
+PROD_0102,Sign Electronics Positive,Electronics,320.8,2022-10-11
+PROD_0103,Treat Electronics Unit,Electronics,11.74,2022-05-14
+PROD_0104,Truth Home & Kitchen Father,Home & Kitchen,89.18,2023-03-29
+PROD_0105,Recognize Automotive Like,Automotive,355.78,2022-01-10
+PROD_0106,Population Electronics Adult,Electronics,46.87,2022-06-02
+PROD_0107,Recent Automotive Cover,Automotive,27.65,2023-01-14
+PROD_0108,Edge Automotive Admit,Automotive,280.74,2023-03-17
+PROD_0109,See Apparel Arrive,Apparel,30.5,2023-01-09
+PROD_0110,Year Electronics Goal,Electronics,450.47,2022-08-04
+PROD_0111,Major Apparel Later,Apparel,336.8,2022-12-29
+PROD_0112,Line Automotive Education,Automotive,443.23,2023-02-21
+PROD_0113,Character Automotive End,Automotive,377.24,2022-08-31
+PROD_0114,Who Apparel Role,Apparel,488.34,2022-07-01
+PROD_0115,Purpose Sports Phone,Sports,22.15,2022-12-07
+PROD_0116,Hard Sports Anyone,Sports,403.1,2022-09-12
+PROD_0117,Economic Home & Kitchen Here,Home & Kitchen,88.01,2022-04-21
+PROD_0118,Hold Sports Sister,Sports,437.36,2023-04-27
+PROD_0119,Guy Apparel Between,Apparel,107.79,2023-04-17
+PROD_0120,Remain Home & Kitchen Couple,Home & Kitchen,159.54,2022-08-22
+PROD_0121,Head Apparel Politics,Apparel,21.6,2022-07-17
+PROD_0122,They Sports Hit,Sports,170.85,2022-03-13
+PROD_0123,Police Home & Kitchen Radio,Home & Kitchen,182.06,2023-02-14
+PROD_0124,Choose Automotive Law,Automotive,172.26,2022-01-29
+PROD_0125,Hospital Electronics Clearly,Electronics,439.75,2022-09-25
+PROD_0126,Control Apparel Ahead,Apparel,294.49,2022-09-29
+PROD_0127,Drive Electronics Me,Electronics,63.12,2023-03-21
+PROD_0128,Meet Home & Kitchen Long,Home & Kitchen,366.99,2022-11-18
+PROD_0129,Management Sports Allow,Sports,307.04,2022-04-29
+PROD_0130,Room Sports Heart,Sports,450.76,2022-07-14
+PROD_0131,Knowledge Home & Kitchen Matter,Home & Kitchen,31.75,2023-03-23
+PROD_0132,Writer Electronics Over,Electronics,264.76,2022-07-21
+PROD_0133,White Home & Kitchen Everybody,Home & Kitchen,221.34,2022-12-05
+PROD_0134,Author Automotive Arm,Automotive,163.82,2022-05-08
+PROD_0135,Newspaper Home & Kitchen Full,Home & Kitchen,258.49,2023-02-23
+PROD_0136,College Home & Kitchen Career,Home & Kitchen,207.18,2022-10-30
+PROD_0137,Gun Automotive Easy,Automotive,72.37,2023-03-07
+PROD_0138,Six Sports Risk,Sports,341.89,2022-06-28
+PROD_0139,Choose Automotive Truth,Automotive,288.86,2023-02-20
+PROD_0140,Standard Automotive Talk,Automotive,418.53,2022-11-08
+PROD_0141,Head Home & Kitchen What,Home & Kitchen,112.99,2022-11-26
+PROD_0142,Goal Sports Become,Sports,226.48,2022-08-07
+PROD_0143,Fact Automotive Ask,Automotive,241.86,2022-06-23
+PROD_0144,Piece Electronics Own,Electronics,149.06,2022-12-10
+PROD_0145,Candidate Electronics Party,Electronics,411.03,2022-08-29
+PROD_0146,Concern Home & Kitchen Stand,Home & Kitchen,120.07,2022-07-23
+PROD_0147,Cup Apparel Play,Apparel,21.97,2022-09-08
+PROD_0148,Economy Sports Trip,Sports,309.52,2022-03-16
+PROD_0149,Dream Sports Thus,Sports,213.08,2022-07-19
+PROD_0150,Real Sports Catch,Sports,252.24,2022-09-07
+PROD_0151,Do Apparel Often,Apparel,331.47,2022-01-06
+PROD_0152,With Electronics Poor,Electronics,391.43,2022-08-13
+PROD_0153,Charge Apparel Sing,Apparel,404.01,2023-04-21
+PROD_0154,Source Electronics Spring,Electronics,283.13,2022-05-05
+PROD_0155,During Sports Base,Sports,75.34,2023-04-21
+PROD_0156,Authority Automotive Four,Automotive,494.07,2022-11-21
+PROD_0157,Mother Sports Tough,Sports,310.2,2023-06-01
+PROD_0158,Feeling Sports Event,Sports,416.98,2023-04-02
+PROD_0159,Himself Apparel Process,Apparel,374.39,2023-05-02
+PROD_0160,Role Sports Cultural,Sports,137.0,2022-09-11
+PROD_0161,Population Home & Kitchen Phone,Home & Kitchen,385.25,2023-05-12
+PROD_0162,Team Apparel Wish,Apparel,144.55,2022-03-21
+PROD_0163,Smile Home & Kitchen Nice,Home & Kitchen,124.9,2022-12-10
+PROD_0164,Cup Home & Kitchen Once,Home & Kitchen,447.58,2022-03-24
+PROD_0165,House Apparel Participant,Apparel,83.91,2023-01-28
+PROD_0166,Structure Apparel Name,Apparel,356.15,2022-03-07
+PROD_0167,Right Sports It,Sports,209.72,2023-04-23
+PROD_0168,Look Sports Section,Sports,40.51,2023-03-07
+PROD_0169,Finish Sports Ask,Sports,453.37,2022-01-21
+PROD_0170,Test Automotive Reason,Automotive,196.39,2022-01-07
+PROD_0171,Help Home & Kitchen Final,Home & Kitchen,156.32,2023-02-04
+PROD_0172,Whole Sports Test,Sports,273.73,2022-08-14
+PROD_0173,Red Sports Quickly,Sports,117.52,2023-03-23
+PROD_0174,Prevent Sports Top,Sports,24.22,2022-12-11
+PROD_0175,Many Sports Join,Sports,364.85,2023-04-24
+PROD_0176,Might Apparel Yes,Apparel,490.55,2022-01-28
+PROD_0177,Task Sports Break,Sports,300.03,2022-01-28
+PROD_0178,Create Electronics Discussion,Electronics,324.95,2022-05-19
+PROD_0179,Sit Sports Allow,Sports,99.05,2022-09-24
+PROD_0180,Our Sports Simply,Sports,170.4,2023-04-11
+PROD_0181,Employee Home & Kitchen Minute,Home & Kitchen,175.38,2023-01-24
+PROD_0182,City Home & Kitchen Go,Home & Kitchen,378.48,2023-03-08
+PROD_0183,Different Home & Kitchen That,Home & Kitchen,419.11,2023-04-27
+PROD_0184,Yeah Electronics Spring,Electronics,377.02,2022-02-23
+PROD_0185,Account Home & Kitchen Simple,Home & Kitchen,119.87,2022-03-12
+PROD_0186,His Electronics Industry,Electronics,379.57,2022-09-11
+PROD_0187,Feeling Apparel First,Apparel,421.22,2022-06-06
+PROD_0188,Understand Apparel Consider,Apparel,71.85,2022-04-28
+PROD_0189,Experience Automotive Eat,Automotive,474.4,2023-04-22
+PROD_0190,Particular Home & Kitchen Reason,Home & Kitchen,385.78,2022-06-21
+PROD_0191,Guy Automotive Season,Automotive,307.55,2022-04-28
+PROD_0192,Physical Apparel Year,Apparel,482.71,2022-04-21
+PROD_0193,Office Automotive Increase,Automotive,22.58,2022-11-16
+PROD_0194,Identify Automotive Institution,Automotive,341.9,2023-01-20
+PROD_0195,Work Sports Budget,Sports,471.32,2022-07-23
+PROD_0196,Discover Electronics Camera,Electronics,300.13,2022-09-06
+PROD_0197,Brother Electronics Without,Electronics,351.62,2022-11-05
+PROD_0198,Everything Automotive Might,Automotive,404.71,2022-02-12
+PROD_0199,Book Home & Kitchen Cup,Home & Kitchen,271.05,2023-01-15
+PROD_0200,Brother Electronics Remain,Electronics,257.92,2022-12-16
+PROD_0201,Green Electronics Nothing,Electronics,426.29,2023-05-17
+PROD_0202,Board Electronics Financial,Electronics,222.43,2023-01-06
+PROD_0203,Training Sports Million,Sports,356.58,2023-03-22
+PROD_0204,Bag Apparel Next,Apparel,369.56,2022-10-04
+PROD_0205,Book Automotive News,Automotive,406.02,2023-05-11
+PROD_0206,Heart Sports Who,Sports,223.43,2022-10-02
+PROD_0207,Necessary Home & Kitchen At,Home & Kitchen,427.34,2022-03-30
+PROD_0208,Either Home & Kitchen Take,Home & Kitchen,442.0,2022-09-07
+PROD_0209,Sort Sports Peace,Sports,289.23,2023-01-24
+PROD_0210,Let Home & Kitchen Happen,Home & Kitchen,24.06,2022-11-29
+PROD_0211,Build Apparel Fire,Apparel,248.9,2022-12-30
+PROD_0212,Skin Home & Kitchen Book,Home & Kitchen,176.77,2022-10-10
+PROD_0213,Make Automotive Wonder,Automotive,14.97,2022-07-15
+PROD_0214,Many Electronics Lay,Electronics,128.26,2023-02-21
+PROD_0215,Blue Sports Letter,Sports,282.04,2022-09-04
+PROD_0216,Record Sports Bar,Sports,326.49,2023-05-18
+PROD_0217,Technology Sports Total,Sports,398.54,2022-04-06
+PROD_0218,Book Home & Kitchen Move,Home & Kitchen,118.58,2022-09-07
+PROD_0219,Can Home & Kitchen Food,Home & Kitchen,335.34,2023-01-13
+PROD_0220,Defense Sports Eat,Sports,281.2,2022-12-19
+PROD_0221,Account Sports Herself,Sports,498.35,2022-12-05
+PROD_0222,Unit Home & Kitchen Sister,Home & Kitchen,354.4,2022-10-05
+PROD_0223,Tv Home & Kitchen Mother,Home & Kitchen,133.19,2022-05-04
+PROD_0224,Push Apparel Language,Apparel,164.62,2022-07-09
+PROD_0225,Scene Apparel Blue,Apparel,116.03,2023-05-11
+PROD_0226,Result Home & Kitchen Simple,Home & Kitchen,365.05,2022-10-17
+PROD_0227,Raise Electronics Produce,Electronics,417.99,2022-10-31
+PROD_0228,Wonder Apparel Recognize,Apparel,186.83,2022-11-06
+PROD_0229,Political Electronics Contain,Electronics,356.93,2022-05-10
+PROD_0230,We Home & Kitchen Coach,Home & Kitchen,32.3,2022-02-25
+PROD_0231,Increase Automotive Program,Automotive,153.15,2022-05-10
+PROD_0232,Dark Sports According,Sports,60.27,2022-01-13
+PROD_0233,Per Automotive Risk,Automotive,149.33,2023-05-06
+PROD_0234,Instead Sports Deal,Sports,176.95,2022-02-22
+PROD_0235,Yourself Home & Kitchen Her,Home & Kitchen,471.12,2023-05-05
+PROD_0236,Series Electronics Leg,Electronics,412.84,2023-02-15
+PROD_0237,Pm Sports Task,Sports,46.3,2022-02-24
+PROD_0238,Again Apparel Green,Apparel,83.11,2022-11-08
+PROD_0239,Practice Electronics Bed,Electronics,497.02,2022-05-02
+PROD_0240,White Automotive Her,Automotive,384.58,2022-08-20
+PROD_0241,Media Automotive Main,Automotive,196.39,2023-03-30
+PROD_0242,Wife Home & Kitchen Need,Home & Kitchen,431.48,2023-03-16
+PROD_0243,Bit Home & Kitchen Plant,Home & Kitchen,288.63,2022-03-03
+PROD_0244,Fly Automotive Something,Automotive,480.45,2022-04-12
+PROD_0245,Beyond Apparel Increase,Apparel,316.5,2022-09-28
+PROD_0246,Century Electronics Get,Electronics,86.96,2022-06-27
+PROD_0247,Different Automotive Develop,Automotive,46.78,2022-01-03
+PROD_0248,Race Sports Machine,Sports,230.75,2023-04-27
+PROD_0249,Condition Home & Kitchen Street,Home & Kitchen,25.99,2022-10-23
+PROD_0250,Market Home & Kitchen Wait,Home & Kitchen,354.46,2023-04-10
+PROD_0251,Would Electronics Concern,Electronics,346.82,2022-09-28
+PROD_0252,Relationship Automotive Institution,Automotive,333.98,2022-07-22
+PROD_0253,Officer Sports Catch,Sports,66.24,2022-08-19
+PROD_0254,Task Apparel Section,Apparel,455.12,2022-05-26
+PROD_0255,Policy Electronics Rest,Electronics,39.22,2022-11-11
+PROD_0256,Seven Automotive Possible,Automotive,376.99,2022-10-23
+PROD_0257,Training Sports Field,Sports,70.93,2022-11-08
+PROD_0258,Yeah Sports Medical,Sports,471.91,2023-05-28
+PROD_0259,Somebody Automotive Real,Automotive,251.96,2022-03-24
+PROD_0260,Both Automotive Coach,Automotive,29.53,2023-03-19
+PROD_0261,Listen Home & Kitchen Able,Home & Kitchen,305.82,2022-01-27
+PROD_0262,Onto Electronics Under,Electronics,122.17,2022-01-22
+PROD_0263,West Home & Kitchen Radio,Home & Kitchen,292.36,2022-06-29
+PROD_0264,Expect Sports Good,Sports,264.29,2023-03-29
+PROD_0265,Take Home & Kitchen Big,Home & Kitchen,98.93,2023-03-23
+PROD_0266,Sea Sports Forward,Sports,484.84,2023-04-27
+PROD_0267,Seven Home & Kitchen Discover,Home & Kitchen,210.09,2022-11-25
+PROD_0268,From Electronics Animal,Electronics,430.29,2022-12-04
+PROD_0269,Important Sports Newspaper,Sports,349.9,2022-10-23
+PROD_0270,Employee Sports Congress,Sports,408.65,2022-02-07
+PROD_0271,Group Sports Behind,Sports,53.15,2022-09-16
+PROD_0272,Service Home & Kitchen Five,Home & Kitchen,66.8,2023-02-18
+PROD_0273,Matter Automotive Pretty,Automotive,414.21,2022-01-02
+PROD_0274,Night Automotive True,Automotive,236.37,2022-02-25
+PROD_0275,Offer Apparel Property,Apparel,264.04,2023-05-26
+PROD_0276,Let Sports Through,Sports,382.4,2022-07-28
+PROD_0277,Successful Home & Kitchen Leave,Home & Kitchen,279.12,2022-10-22
+PROD_0278,Nation Sports Boy,Sports,441.61,2023-05-12
+PROD_0279,House Electronics Someone,Electronics,24.15,2022-09-03
+PROD_0280,Different Apparel Man,Apparel,162.27,2022-01-15
+PROD_0281,System Automotive Task,Automotive,209.92,2022-08-19
+PROD_0282,Serve Electronics Smile,Electronics,236.11,2022-05-01
+PROD_0283,Put Apparel Third,Apparel,254.2,2022-10-26
+PROD_0284,Occur Automotive Energy,Automotive,355.65,2023-03-02
+PROD_0285,Reach Sports Fight,Sports,490.32,2022-09-07
+PROD_0286,Nature Sports Interest,Sports,280.12,2023-01-28
+PROD_0287,Loss Apparel Attack,Apparel,461.72,2022-05-20
+PROD_0288,Discover Electronics Save,Electronics,145.36,2023-03-01
+PROD_0289,Base Home & Kitchen Particular,Home & Kitchen,467.78,2022-10-01
+PROD_0290,Between Electronics How,Electronics,148.59,2022-11-02
+PROD_0291,Begin Automotive Power,Automotive,294.16,2023-05-17
+PROD_0292,Skin Apparel Thank,Apparel,228.81,2023-05-11
+PROD_0293,South Home & Kitchen Voice,Home & Kitchen,172.9,2023-01-22
+PROD_0294,Future Sports Teacher,Sports,467.1,2022-07-13
+PROD_0295,Magazine Apparel Maybe,Apparel,290.18,2022-08-28
+PROD_0296,Along Sports Least,Sports,31.39,2023-04-30
+PROD_0297,Beautiful Sports Standard,Sports,199.18,2022-06-05
+PROD_0298,Table Sports Within,Sports,482.76,2022-05-10
+PROD_0299,Fund Automotive Themselves,Automotive,483.02,2022-12-06
+PROD_0300,Beautiful Electronics Ok,Electronics,438.35,2023-03-27

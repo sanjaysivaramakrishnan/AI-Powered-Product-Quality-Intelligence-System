@@ -1,0 +1,11 @@
+artifact_location: file:///C:/Users/admin/Desktop/Python_jupyter/ML_PROJECTS/AI-Powered
+  Product Quality Intelligence System/mlruns/0/models/m-03dbc5d3a12643fdbe5e4f0825de02b9/artifacts
+creation_timestamp: 1776347318305
+experiment_id: '0'
+last_updated_timestamp: 1776347331249
+model_id: m-03dbc5d3a12643fdbe5e4f0825de02b9
+model_type: null
+name: defect_predictor
+source_run_id: b6bb78fb71a7442c82c871dbfc4bea9c
+status: 2
+status_message: null

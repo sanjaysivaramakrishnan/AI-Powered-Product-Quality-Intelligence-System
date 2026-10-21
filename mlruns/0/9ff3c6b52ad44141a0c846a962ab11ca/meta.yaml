@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/admin/Desktop/Python_jupyter/ML_PROJECTS/AI-Powered
+  Product Quality Intelligence System/mlruns/0/9ff3c6b52ad44141a0c846a962ab11ca/artifacts
+end_time: 1776347683725
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 9ff3c6b52ad44141a0c846a962ab11ca
+run_name: defect_predictor
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1776347681265
+status: 3
+tags: []
+user_id: admin
